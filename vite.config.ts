@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/',
+  base: '/gitbub-pages-demo-1/dist/',
   plugins: [vue()]
 })
